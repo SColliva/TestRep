@@ -1,3 +1,4 @@
 # TestRep
 test
-testCommit
+Test new Merge with the delete
+of the first row
